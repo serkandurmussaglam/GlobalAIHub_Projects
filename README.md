@@ -1,3 +1,12 @@
+# GlobalAIHub Medical Cost Prediction
+
+Projenin amacı, verilen değişkenlere göre bir kişinin sağlık
+sigortasının yaklaşık ne kadar masraflı olacagını tahmin etmektir. 
+
+Veri Seti: https://www.kaggle.com/datasets/mirichoi0218/insurance
+
+
+
 # GlobalAIHub Transfer Learning Project
 
 Dataset = https://www.microsoft.com/en-us/download/details.aspx?id=54765
