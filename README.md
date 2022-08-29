@@ -6,4 +6,5 @@ Dataset = https://www.microsoft.com/en-us/download/details.aspx?id=54765
 
 Transfer Learning ile daha önce eğitilmiş modelleri kütüphaneler gibi projemize import edip kendi verilerimiz ile kullanabiliyoruz. GLOBALAIHUB - AI SUMMER CAMP projesi kapsamında Transfer Learning ile Görüntü Sınıflandırma (İmage Classification) şeklinde bir bitirme projesi yapmamız istendi. 
 
-Projemde Mobilenet modelini Microsoft'un sağladığı PetImages veri seti ile besledim. PetImages veri setini binlerce etiketli kedi ve köpek fotoğrafından oluşmaktadır. Mobilenet modelinden de işte bu ayrımı öğrenmesini istedim. Etiketli verilerimi modele besledikten sonra test verilerimde %98 doğruluk sağlamıştır.
+Mobilenet ve CNN olmak üzere 2 farklı notebook şeklinde 2 farklı modelde verilerimiz ile doğru çıktılar almaya çalıştık. 
+CNN: %84 ve Mobilenet: %98 doğruluk oranında çıktı verdi.
